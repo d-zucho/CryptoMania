@@ -19,6 +19,7 @@ a:hover {
 
 .app {
   display: flex;
+  /* flex-direction: column; */
   overflow: hidden;
 }
 
@@ -374,4 +375,11 @@ a:hover {
   flex-direction: column;
   padding: 20px;
   align-items: center;
+  /* position: absolute;
+  bottom: 0; */
 }
+
+/* footer .footer-text {
+  color: white;
+  text-align: center;
+} */
